@@ -1,0 +1,3 @@
+mlx-lm
+PyQt5
+qt-material
